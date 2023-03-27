@@ -25,7 +25,7 @@ body {
 
 .container {
   display: flex;
-  margin: 16px 64px;
+  margin: 16px 120px;
 }
 
 .flex {
@@ -34,7 +34,8 @@ body {
 
 /* Header */
 header {
-  margin-top: 16px;
+  margin: 16px 32px;
+  /* margin-top: 16px; */
 }
 .ctn__nav {
   display: flex;
@@ -102,7 +103,7 @@ header {
   padding: 24px 0;
 }
 .ctn__recent-post {
-  margin: 0 64px;
+  margin: 0 120px;
   flex-direction: column;
 }
 .ctn__view-all {
