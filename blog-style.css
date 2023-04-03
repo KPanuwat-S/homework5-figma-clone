@@ -1,0 +1,13 @@
+.ctn__blog {
+  flex-direction: column;
+}
+
+.post {
+  border-bottom: 1px solid #bbb;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 32px;
+  margin: 32px 18px;
+}
